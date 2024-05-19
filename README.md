@@ -721,6 +721,7 @@ Then, Click on **Add Webhook**.
 
 #### =============================END of LAB-04=============================
 ---
+## Self-Exercise
 ## Lab-5: Configuring Docker Machine as Jenkins Slave, build and deploy code in Docker Host as a container
 
 **Objective:**
