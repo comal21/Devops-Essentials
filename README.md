@@ -394,8 +394,6 @@ git status
 * Under '**Select Scopes**' select all items. Click on '**generate token**'.
 * Once generated, **Copy and save the token in a safe location as it is not visible again in GitHub.**
 
-   **Example:** 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
-
 * Create `Alias` as `Origin` to GitHub's Remote repository URL.
 ```
 git remote add origin < Replace your Repository URL > 
